@@ -14,3 +14,5 @@ Starting first major release!
 Starting second minor release!
 
 Starting third minor release!
+
+Inserted third major feature
