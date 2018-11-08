@@ -12,3 +12,6 @@ A new development has occured
 Preparing for first major release
 
 Planning the second minor release.
+
+
+New features for second major release
