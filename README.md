@@ -10,3 +10,5 @@ A Major feature has been implemented!
 
 A new development has occured
 Preparing for first major release
+
+Planning the second minor release.
