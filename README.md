@@ -13,4 +13,4 @@ Starting first major release!
 
 Starting second minor release!
 
-Preparing for second major release
+Starting second major release!
