@@ -12,3 +12,5 @@ A new development has occured
 Starting first major release!
 
 Starting second minor release!
+
+Preparing for second major release
