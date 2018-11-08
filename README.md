@@ -1,4 +1,6 @@
 # hello-world
 
-my name is christian
-This is the original release
+My name is Christian. This is the original release.
+
+
+Hey look something was developed.
